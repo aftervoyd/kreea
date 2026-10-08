@@ -1,6 +1,6 @@
-# Krea.ai — Landing Page
+# Kreea.ai — Landing Page
 
-Halaman publik (statis) untuk **Krea.ai**, studio konten AI di Telegram.
+Halaman publik (statis) untuk **Kreea.ai**, studio konten AI di Telegram.
 
 - Bot: [@kreeaibot](https://t.me/kreeaibot)
 - Fitur: UGC Video Iklan (foto kreator + foto produk), Video All-in-One, Image to Video
